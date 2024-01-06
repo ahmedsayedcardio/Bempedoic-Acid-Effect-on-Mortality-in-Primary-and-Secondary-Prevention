@@ -1,5 +1,4 @@
 # Bempedoic-Acid-Effect-on-Mortality-in-Primary-and-Secondary-Prevention
-This repository contains the code related to an analysis of Bempedoic Acid's effects on mortality in the primary and secondary prevention settings
+This repository contains the code related to an analysis of Bempedoic Acid's effects on mortality in the primary and secondary prevention settings using data from the CLEAR Outcomes trial.
 
-The analysis was conducted using R, version 4.2.0. The "Bayesian_Re-analysis.R" file contains the code needed to reconstruct the data, choose vague priors, and run the analysis.
-The two other files ("Plot (ACM).R" and "Plot (CVM).R") contain the data needed to plot the posterior distributions for all-cause mortality and cardiovascular mortality respectively.
+The quarto document uploaded to this repository contains all of the code needed to reproduce the trial data and re-analyze it. If you have any questions pertaining to this analysis, please don't hesitate to contact me (asu.ahmed.sayed@gmail.com)
